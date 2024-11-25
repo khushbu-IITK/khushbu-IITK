@@ -24,4 +24,7 @@ I am currently working on a project where
 -      Sensor: Camera [RGB-D]
 -      Utilizing Image Segmentation deep learning model efficient enough to be used in real time applications.
 
-- Earlier tried the Object detection as well. But for our problem we find the Image Segmentation more suitable.  
+- Earlier tried the Object detection as well. But for our problem we find the Image Segmentation more suitable.
+
+- I will upload the code and resources once the project is finished.
+  Thank You!!
